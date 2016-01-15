@@ -1,0 +1,31 @@
+{
+  "name": "raname",
+  "version": "0.1.0",
+  "description": "Create random names for projects, containers, subdomains or whatever.",
+  "main": "index.js",
+  "bin": {
+    "raname": "bin/raname.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "copy-paste": "^1.1.3"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamso/raname.git"
+  },
+  "keywords": [
+  ],
+  "author": "iamso <so@dev.so>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamso/raname/issues"
+  },
+  "homepage": "https://github.com/iamso/raname#readme"
+}
