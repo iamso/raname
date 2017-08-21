@@ -1,6 +1,6 @@
 {
   "name": "raname",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create random names for projects, containers, subdomains or whatever.",
   "main": "index.js",
   "bin": {
